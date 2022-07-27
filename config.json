@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri":"mysql://root:@localhost/ashishranjan",
+    "prod_uri": "mysql://root:@localhost/ashishranjan",
+    "fb_url": "https://www.facebook.com/ashishranjan80",
+    "git_url": "https://github.com/ashish80ranjan",
+    "twitter_url": "https://twitter.com/ashishranjan880",
+    "gmail-user": "ashish.ranjan.cse23@heritageit.edu.in",
+    "gmail-password": "fb80A0yn",
+    "about_text": "Hi, I am Ashish Ranjan 4th year student interested in Backend Development Love to solve problem with data structure and want to work in\nan environment which encourages me to succeed and grow\nprofessionally where I can utilize my skills and gain experience",
+    "no_of_post": 2,
+    "login_image": "bootstrap-logo.svg",
+    "blog_name": "Ashish Ranjan",
+    "admin_user": "ashish",
+    "admin_password": "ashish",
+    "uploader_location": "C:\\Users\\ASHISH RANJAN\\PycharmProjects\\flaskproject\\static"
+  }
+
+}
